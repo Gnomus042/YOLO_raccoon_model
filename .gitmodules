@@ -1,0 +1,6 @@
+[submodule "dourflow"]
+	path = dourflow
+	url = https://github.com/ksanjeevan/dourflow
+[submodule "raccoon_dataset"]
+	path = raccoon_dataset
+	url = https://github.com/experiencor/raccoon_dataset
